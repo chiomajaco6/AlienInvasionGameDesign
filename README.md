@@ -44,3 +44,6 @@ Prerequisites
 Python 3.7+
 
 Pygame library
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/64d7c1cb-217c-47eb-9103-07f90364c06d" />
+
